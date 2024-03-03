@@ -14,9 +14,7 @@ Tailwind template
 </div>
 
 My copy
-<div align="center">
-        <img align="center" width="350" src="/assets/copy.jpg" alt="copy tailwind" />
-</div>
+--> Template available on github pages <--
 
 ex. Marcin Szumiel
 
