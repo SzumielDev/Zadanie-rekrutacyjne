@@ -15,13 +15,7 @@ Tailwind template
 
 My copy
 <div align="center">
-        <img align="center" width="350" src="/assets/screen.jpg" alt="copy tailwind" />
-</div>
-<div align="center">
-        <img align="center" width="350" src="/assets/screen2.jpg" alt="copy tailwind" />
-</div>
-<div align="center">
-        <img align="center" width="350" src="/assets/screen3.jpg" alt="copy tailwind" />
+        <img align="center" width="350" src="/assets/copy" alt="copy tailwind" />
 </div>
 
 ex. Marcin Szumiel
